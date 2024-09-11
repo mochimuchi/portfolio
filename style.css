@@ -448,19 +448,16 @@ footer p {
     0% {
         content: "Data Analyst";
     }
-    20% {
+    25% {
       content: "Data Scientist";
     }
-    35% {
+    50% {
       content: "Business Analyst";
     }
-    60% {
+    75% {
       content: "Data Engineer";
     }
-    80% {
-      content: "BI Engineer";
-    }
     100% {
-      content: "Web Developer";
+      content: "BI Engineer";
     }
   }
